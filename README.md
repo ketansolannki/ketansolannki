@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Python, dotNet**
+- 💬 Ask me about **Python,Java, dotNet**
 
 - 📫 How to reach me **ketansolanki2712@gmail.com**
 
